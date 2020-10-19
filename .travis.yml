@@ -11,6 +11,11 @@
 # version: 0.10
 #
 version: ~> 1.0
+
+arch:
+ - amd64
+ - ppc64le
+ 
 language: c
 os: linux
 dist: xenial
